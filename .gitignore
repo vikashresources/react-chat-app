@@ -1,0 +1,4 @@
+./client/node_modules
+./client/build
+./client/netlify
+./server/node_modules
